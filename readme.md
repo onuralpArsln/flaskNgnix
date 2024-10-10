@@ -36,3 +36,9 @@ or
 ```
 http://localhost:5000
 ```
+
+to close safely you can close with
+
+```
+sudo pkill gunicorn
+```
